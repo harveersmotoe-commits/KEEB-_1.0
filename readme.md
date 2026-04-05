@@ -3,7 +3,7 @@
 This is a 60% keyboard which also has a rotary encoder, 0.91 oled display, and 5 extra programmable buttons. This runs on a Raspberry Pi Pico and is not battery powered. 
 
 Why did I make this?
-In blueprint I had tried to make a split keyboard because in my opinion that is way cooler than this, the only thing being that it was kinda difficult without any piror knowledge.
+In blueprint I had tried to make a split keyboard because in my opinion that is way cooler than this, the only thing being that it was kinda difficult without any piror knowledge. You can kind of spot the attempt in the schematics but, I did ditch it soon after. 
 
 # Schematics
 
