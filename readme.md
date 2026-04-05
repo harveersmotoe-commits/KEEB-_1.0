@@ -25,7 +25,7 @@ FRONT:
 
 SIDE:
 
-<img width="653" height="236" alt="image" src="https://github.com/user-attachments/assets/0c2f888a-979a-41da-b301-755ba2a78a60" />
+<img width="1566" height="408" alt="image" src="https://github.com/user-attachments/assets/ce7d0013-d4b7-4590-a555-a7c23417718d" />
 
 
 # Zine Fallout Page
