@@ -15,7 +15,9 @@ In blueprint I had tried to make a split keyboard because in my opinion that is 
 <img width="605" height="288" alt="image" src="https://github.com/user-attachments/assets/db4b296c-f630-4dec-bf65-e1784076ea1f" />
 
 
-# 3d Renders
+# 3d Renders: 
+
+https://cad.onshape.com/documents/1ae3be99bbc461a973191d69/w/fc64a29f0eed5ccd2d31274e/e/07f126c9bb32923463e6050c?renderMode=0&uiState=69d1e036063ed3d58fd2317c
 
 FRONT:
 
