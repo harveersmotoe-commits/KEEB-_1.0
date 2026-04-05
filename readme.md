@@ -30,6 +30,6 @@ SIDE:
 
 # BOM
 
-<img width="1139" height="380" alt="image" src="https://github.com/user-attachments/assets/0602d7c1-f40c-4273-b911-63dbd3486540" />
+<img width="1198" height="366" alt="image" src="https://github.com/user-attachments/assets/6497d282-a676-456e-99f7-8429759d9cc8" />
 
 
