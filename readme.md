@@ -21,7 +21,8 @@ https://cad.onshape.com/documents/1ae3be99bbc461a973191d69/w/fc64a29f0eed5ccd2d3
 
 FRONT:
 
-<img width="943" height="432" alt="image" src="https://github.com/user-attachments/assets/4694561f-daaf-48e8-aa81-5389e9cf9b69" />
+<img width="694" height="325" alt="image" src="https://github.com/user-attachments/assets/24b327b0-d112-413e-b2f4-8c764438e8fd" />
+
 
 SIDE:
 
