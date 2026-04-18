@@ -48,10 +48,12 @@ Thanks to the Youtube Creator Flux (For the tips on how to make my PCB look pres
 
   After doing this solder all the switches to the pcb and then follow with the Raspberry Pi Pico and resistors (Photo coming soon of where to put what)
 
-  NOTE: FOR UNDERGLOW MAKE SURE YOU ORDER THE RIGHT PCB (ONE HAS NO SUPPORT)
+  NOTE: FOR UNDERGLOW MAKE SURE YOU ORDER THE RIGHT PCB (ONE HAS NO SUPPORT) AND USE CLEAR FILAMENT FOR THE BOTTOM SHELL IF USING UNDERGLOW
 
   *If you have the PCB WHICH HAS UNDERGLOW SUPPORT MAKE SuRE YOU SOLDIER THE LEDS TO THE BOTTOM
 
-  Then grab your 3d printed materials and use the screws to tighten the pcb to the 
+  Then grab your 3d printed materials and use the screws to tighten the pcb to the bottom shell
+
+  Use the magnets and add them onto both the bottom and top shell pieces.
 
 
