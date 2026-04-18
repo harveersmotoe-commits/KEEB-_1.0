@@ -21,11 +21,11 @@ https://cad.onshape.com/documents/1ae3be99bbc461a973191d69/w/fc64a29f0eed5ccd2d3
 
 FRONT:
 
-<img width="694" height="325" alt="image" src="https://github.com/user-attachments/assets/1d29aea4-95c7-455f-8640-bc43b93e674f" />
+<img width="640" height="284" alt="image" src="https://github.com/user-attachments/assets/c72d7a73-08a4-420b-8a65-bdc29ca4a909" />
 
 SIDE:
 
-<img width="1566" height="408" alt="image" src="https://github.com/user-attachments/assets/ce7d0013-d4b7-4590-a555-a7c23417718d" />
+<img width="803" height="243" alt="image" src="https://github.com/user-attachments/assets/c2c5b26d-efa4-43f0-b480-f5ff39e0e5cb" />
 
 
 # Zine Fallout Page
