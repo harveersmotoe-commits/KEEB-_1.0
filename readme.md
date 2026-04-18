@@ -34,4 +34,7 @@ SIDE:
 
 <img width="1198" height="366" alt="image" src="https://github.com/user-attachments/assets/6497d282-a676-456e-99f7-8429759d9cc8" />
 
+# CREDITS
 
+Hack Club Fallout: For giving me this oppurtunity
+Thanks to the Youtube Creator Flux (For the tips on how to make my PCB look presentable)
