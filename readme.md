@@ -7,7 +7,7 @@ In blueprint I had tried to make a split keyboard because in my opinion that is 
 
 # Schematics
 
-<img width="1154" height="520" alt="image" src="https://github.com/user-attachments/assets/4fa1b8be-5e3b-4c41-9fdc-c0048d01b276" />
+<img width="1596" height="585" alt="image" src="https://github.com/user-attachments/assets/f1b51bc7-55a6-40b9-a409-282926dd8fa3" />
 
 
 # PCB
