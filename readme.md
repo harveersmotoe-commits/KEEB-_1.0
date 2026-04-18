@@ -32,7 +32,7 @@ SIDE:
 
 # BOM
 
-<img width="1198" height="366" alt="image" src="https://github.com/user-attachments/assets/6497d282-a676-456e-99f7-8429759d9cc8" />
+<img width="790" height="432" alt="image" src="https://github.com/user-attachments/assets/1605064d-ee4f-4e1b-8592-f0012ceb712e" />
 
 # CREDITS
 
