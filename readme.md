@@ -42,10 +42,16 @@ Thanks to the Youtube Creator Flux (For the tips on how to make my PCB look pres
 
 # How to Build
 
-Start off with the Raspberry Pi and Solider headers if not yet soldier, if you are a beginner I would highly recommend watching this video (https://youtu.be/Z0joOKaQ43A?si=yZU-sQ1wUjgkzB4q&t=37)
+  Start off with the Raspberry Pi and Solider headers if not yet soldier, if you are a beginner I would highly recommend watching this video (https://youtu.be/Z0joOKaQ43A?si=yZU-sQ1wUjgkzB4q&t=37)
 
-Then add switches to all of the holes that ressemble hole puncher holes, making sure that the little copper lines aren't being jammed in the wrong way, this should be easy to put on with not much resistance.
+  Then add switches to all of the holes that ressemble hole puncher holes, making sure that the little copper lines aren't being jammed in the wrong way, this should be easy to put on with not much resistance.
 
-After doing this solder all the switches to the pcb and then follow with the Raspberry Pi Pico and resistors (Photo coming soon of where to put what)
+  After doing this solder all the switches to the pcb and then follow with the Raspberry Pi Pico and resistors (Photo coming soon of where to put what)
 
-Then grab your 3d printed materials and follow the youtube video (will be posted soon).
+  NOTE: FOR UNDERGLOW MAKE SURE YOU ORDER THE RIGHT PCB (ONE HAS NO SUPPORT)
+
+  *If you have the PCB WHICH HAS UNDERGLOW SUPPORT MAKE SuRE YOU SOLDIER THE LEDS TO THE BOTTOM
+
+  Then grab your 3d printed materials and use the screws to tighten the pcb to the 
+
+
